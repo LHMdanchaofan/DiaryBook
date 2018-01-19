@@ -2,7 +2,8 @@
 
 使用语言：C#
 
-设计要点：1.localDB(sqlserver)
+设计要点： 
+          1.localDB(sqlserver)
           
           2.LinqToServer
           
