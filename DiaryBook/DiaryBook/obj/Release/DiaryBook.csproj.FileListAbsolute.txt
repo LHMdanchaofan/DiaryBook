@@ -1,0 +1,14 @@
+D:\VSworkspace\DiaryBook\DiaryBook\bin\Release\DiaryBook.exe.config
+D:\VSworkspace\DiaryBook\DiaryBook\bin\Release\DiaryBook.exe
+D:\VSworkspace\DiaryBook\DiaryBook\bin\Release\DiaryBook.pdb
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\MainWindow.g.cs
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\App.g.cs
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\DiaryBook_MarkupCompile.cache
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\DiaryBook_MarkupCompile.lref
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\MainWindow.baml
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\DiaryBook.g.resources
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\DiaryBook.Properties.Resources.resources
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\DiaryBook.csproj.GenerateResource.Cache
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\DiaryBook.csproj.CoreCompileInputs.cache
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\DiaryBook.exe
+D:\VSworkspace\DiaryBook\DiaryBook\obj\Release\DiaryBook.pdb

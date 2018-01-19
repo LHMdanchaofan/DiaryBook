@@ -1,0 +1,17 @@
+﻿<Window x:Class="DiaryBook.AboutwWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DiaryBook"
+        mc:Ignorable="d"
+        Title="关于" Height="300" Width="300">
+    <Grid>
+
+        <TextBlock Text="{Binding name,Mode=OneWay}"  Margin="73,62,59,178"/>
+        <TextBlock Text="{Binding contentauthor, Mode=OneWay}" Margin="73,91,59,149"/>
+        <TextBlock Text="{Binding contenttime, Mode=OneWay}" Margin="73,120,59,120"/>
+        <TextBlock Text="{Binding version, Mode=OneWay}" Margin="73,149,59,91"/>
+        <Button Content="确定" Click="close"  HorizontalAlignment="Left" Margin="105,215,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

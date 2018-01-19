@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configration>
+  <Name>私人日记本</Name>
+  <Content>
+      <Author>李浩铭</Author>
+	  <Time>2018-01-19</Time>
+  </Content>
+  <Version>1.0</Version>  
+</configration>
