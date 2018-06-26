@@ -2,7 +2,7 @@
 
 使用语言：C#
 
-设计要点： 
+设计要点： <br>  
           1.localDB(sqlserver) <br>   
           2.LinqToServer <br>  
           3.正则表达式 <br>  
